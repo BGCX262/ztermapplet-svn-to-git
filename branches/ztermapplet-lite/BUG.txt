@@ -1,0 +1,2 @@
+Lite 0.0.1:
+[NEW] The size of program is too large to download it fast.

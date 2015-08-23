@@ -1,0 +1,5 @@
+1.17
+[New] Save articles to files
+
+Future works
+- Save screen as an image file.
